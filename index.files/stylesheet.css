@@ -121,13 +121,11 @@ td
 .xl71
 	{mso-style-parent:style0;
 	color:black;
-	font-size:14.0pt;
+	font-size:24.0pt;
 	font-weight:700;
-	text-align:center;
-	border-top:1.0pt solid windowtext;
-	border-right:none;
-	border-bottom:1.0pt solid windowtext;
-	border-left:1.0pt solid windowtext;}
+	font-family:黑体, monospace;
+	mso-font-charset:134;
+	text-align:center;}
 .xl72
 	{mso-style-parent:style0;
 	color:black;
@@ -137,7 +135,7 @@ td
 	border-top:1.0pt solid windowtext;
 	border-right:none;
 	border-bottom:1.0pt solid windowtext;
-	border-left:none;}
+	border-left:1.0pt solid windowtext;}
 .xl73
 	{mso-style-parent:style0;
 	color:black;
@@ -145,7 +143,7 @@ td
 	font-weight:700;
 	text-align:center;
 	border-top:1.0pt solid windowtext;
-	border-right:1.0pt solid black;
+	border-right:none;
 	border-bottom:1.0pt solid windowtext;
 	border-left:none;}
 .xl74
@@ -155,17 +153,16 @@ td
 	font-weight:700;
 	text-align:center;
 	border-top:1.0pt solid windowtext;
-	border-right:1.0pt solid windowtext;
-	border-bottom:none;
-	border-left:1.0pt solid windowtext;
-	white-space:normal;}
+	border-right:1.0pt solid black;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;}
 .xl75
 	{mso-style-parent:style0;
 	color:black;
 	font-size:14.0pt;
 	font-weight:700;
 	text-align:center;
-	border-top:none;
+	border-top:1.0pt solid windowtext;
 	border-right:1.0pt solid windowtext;
 	border-bottom:none;
 	border-left:1.0pt solid windowtext;
@@ -178,14 +175,17 @@ td
 	text-align:center;
 	border-top:none;
 	border-right:1.0pt solid windowtext;
-	border-bottom:1.0pt solid black;
+	border-bottom:none;
 	border-left:1.0pt solid windowtext;
 	white-space:normal;}
 .xl77
 	{mso-style-parent:style0;
 	color:black;
-	font-size:24.0pt;
+	font-size:14.0pt;
 	font-weight:700;
-	font-family:黑体, monospace;
-	mso-font-charset:134;
-	text-align:center;}
+	text-align:center;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid black;
+	border-left:1.0pt solid windowtext;
+	white-space:normal;}
